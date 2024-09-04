@@ -6,6 +6,7 @@
 // const numbers = 12223242;
 
 // (), {}, []
+
 const numbers = [12, 22, 32, 42];
 const friends = [Abul, Babul, Kabul, Bulbul]; 
 const passed = [true, false, true, false];
