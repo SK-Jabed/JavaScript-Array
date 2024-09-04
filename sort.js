@@ -3,7 +3,7 @@ const sortedSubjects = subjects.sort();
 console.log(sortedSubjects);
 
 // sort ==>
-
+  
 /**
  * Ascending ===> smaller to larger: [2, 3, 4, 6, 7, 8]
  * Descending ===> larger to smaller: [8, 7, 6, 4, 3, 2]
