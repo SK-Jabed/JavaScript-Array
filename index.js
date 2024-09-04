@@ -8,6 +8,7 @@ console.log(numbers[5]);
 const fourth = numbers[3];
 console.log(fourth);
 
+
 // Set or Update Element Value by Index 
 // let abc = 45;
 // abc = 69;
