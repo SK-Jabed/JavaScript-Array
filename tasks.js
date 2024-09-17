@@ -7,12 +7,15 @@
 
     - console log the 3rd index element
 
-    - change the value of the 2nd index element to jambura
+    - change the value of the 2nd index element to Jambura
     
     - console log the final array
 
 */ 
-
+const fruits = ["Mango", "Jack-fruit", "Orange", "Litchi", "Banana"];
+console.log(fruits[2]);
+fruits[1] = "Jambura";
+console.log(fruits);
 
 
 // Task - 02 
@@ -31,8 +34,13 @@
     - display the final array as output
 
 */ 
-
-
+const touristSpot = ["Cox's Bazar", "Sajek Valley", "Kuakata"];
+touristSpot.push("Bandarban");
+console.log(touristSpot);
+touristSpot.push("Shitakundu", "Tangoar Hawor");
+console.log(touristSpot);
+touristSpot.pop();
+console.log(touristSpot);
 
 // Task - 03 
 /***
@@ -48,6 +56,7 @@ Instructions:
     - Print a message to the console indicating whether the element is present in the array or not.
 
 */ 
+const booksName =  ["HTML Book", "CSS Book", "JavaScript Book"];
 
 
 
