@@ -56,9 +56,9 @@ Instructions:
     - Print a message to the console indicating whether the element is present in the array or not.
 
 */ 
-const booksName =  ["HTML Book", "CSS Book", "JavaScript Book"];
-
-
+const books =  ["HTML Book", "CSS Book", "JavaScript Book"];
+console.log(books.includes("JavaScript Book"));
+console.log("JavaScript Book is Present in The Array");
 
 // ---------- Task - 04 ----------
 /***
