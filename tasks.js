@@ -1,4 +1,4 @@
-// Task - 01
+// ---------- Task - 01 ----------
 /***
 
 1. Declare an array
@@ -18,7 +18,7 @@ fruits[1] = "Jambura";
 console.log(fruits);
 
 
-// Task - 02 
+// ---------- Task - 02 ----------
 /***
 
 2. Add or remove elements
@@ -42,7 +42,7 @@ console.log(touristSpot);
 touristSpot.pop();
 console.log(touristSpot);
 
-// Task - 03 
+// ---------- Task - 03 ----------
 /***
 
 3. Checking Array Membership with ‘includes’
@@ -60,7 +60,7 @@ const booksName =  ["HTML Book", "CSS Book", "JavaScript Book"];
 
 
 
-// Task - 04 
+// ---------- Task - 04 ----------
 /***
 
 4. Checking if it's an Array
@@ -77,7 +77,7 @@ Instructions:
 
 
 
-// Task - 05 
+// ---------- Task - 05 ----------
 /***
 
 5. Combining Arrays
@@ -91,7 +91,7 @@ Instructions:
     - Print both the original arrays and the combined array using console.log().
 
 */ 
-
+const item = ["Phone", "Laptop", "Ipad"];
 
 
 
