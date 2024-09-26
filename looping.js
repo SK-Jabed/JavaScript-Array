@@ -9,12 +9,12 @@
 */
 
 const friends = ["Elon Mask", "Bill Gates", "Mark Zuku", "Waren"];
-for(const friend of friends) {
+for (const friend of friends) {
   // console.log(friend);
 }
 
 // for(let i = 0; i < 10; i++) {
-for(let i = 0; i <= friends.length; i++) {
+for (let i = 0; i <= friends.length; i++) {
   console.log(i);
   console.log(friends[i]);
 }
@@ -25,13 +25,13 @@ for (let i = 0; i <= numbers.length; i++) {
 }
 
 let i = 0;
-while(i < friends.length) {
+while (i < friends.length) {
   console.log(friends[i]);
   i++;
 }
 
 let n = 0;
-while(n < numbers.length) {
+while (n < numbers.length) {
   console.log(numbers[n]);
   n++;
 }

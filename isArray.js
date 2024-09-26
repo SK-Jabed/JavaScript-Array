@@ -1,10 +1,10 @@
-const friends = ['Kalam', 'Balam', 'Salam', 'Gelam', 'Pailam', 'Khailam'];
+const friends = ["Kalam", "Balam", "Salam", "Gelam", "Pailam", "Khailam"];
 
 const numbers = [];
 
-const items = '[]';
+const items = "[]";
 
-const food = 'ros o gol la';
+const food = "ros o gol la";
 
 const ages = [18, 22, 25, 28, 30];
 

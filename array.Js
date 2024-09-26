@@ -10,4 +10,4 @@
 const numbers = [12, 22, 32, 42];
 const friends = [Abul, Babul, Kabul, Bulbul]; 
 const passed = [true, false, true, false];
-const mixedArray = [12, 'Dhaka', true, 69.69];
+const mixedArray = [12, "Dhaka", true, 69.69];
